@@ -240,6 +240,7 @@ ul{
 
 .logo{
     background-image: url(/amazonlogo.png);
+    background-repeat: no-repeat;
     background-size: 6.8vw 8vh;
     height: 50px;
     width: 100px;
